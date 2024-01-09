@@ -3,7 +3,6 @@ import speech_recognition as sr  # create SR as speech rec.
 import pyttsx3
 import pyjokes
 import wikipedia
-import math
 global command1, command
 
 
