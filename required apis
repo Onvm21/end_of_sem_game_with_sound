@@ -1,0 +1,6 @@
+Required apis
+1. pywhatkit - https://pypi.org/project/pywhatkit/
+2. speech_recognition - https://pypi.org/project/SpeechRecognition/
+3. pyttsx3 - https://pypi.org/project/pyttsx3/ (might need to convernt it to py3-tts)
+4. pyjokes - https://pypi.org/project/pyjokes/
+5. wikipedia - https://pypi.org/project/wikipedia/
